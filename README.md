@@ -37,6 +37,6 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 **TIMING DIGRAMS FOR SISO Shift Register**
 <img width="1719" height="926" alt="Screenshot 2026-05-29 120454" src="https://github.com/user-attachments/assets/144797f6-32e0-435f-b983-d9face000519" />
 
-**RESULTS**
+**RESULT:**
 
 Thus the serial in and serial out shift register executed successfully.
